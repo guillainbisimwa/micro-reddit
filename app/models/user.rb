@@ -3,5 +3,5 @@ class User < ApplicationRecord
   validates :email, presence: true, uniqueness: true, length: { in: 10..30 }
   validates :password, presence: true, length: { in: 8..30 }
   has_many :posts
-  has_many :comments, through: :posts
+  has_many :comments
 end
