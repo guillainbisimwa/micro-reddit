@@ -16,7 +16,7 @@
 NOTE: You need to have `Bundler` installed and, of course, `Ruby`. If don't have `Bundler` installed you can install it with `gem install bundler`.
 
 Assuming that `Bundler` is installed, you can continue with the following steps:
-- Step 1: Clone this repository. Just use: `git clone https://github.com/guillainbisimwa/micro-reddit/ `.
+- Step 1: Clone this repository. Just use: `git clone https://github.com/guillainbisimwa/micro-reddit/`.
 - Step 2: Open the project folder where the repository was downloaded. Once you are in that folder, open a terminal and make sure that it will be opened in that specific folder.
 - Step 3: Once you are in the terminal, just type in: `bundle install`. This will install the required dependencies for this project.
 - Step 4: Now, you need to run the migrations. To do this, while in the project root folder type in: `rails db:migrate`.
