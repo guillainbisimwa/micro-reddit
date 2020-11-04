@@ -34,7 +34,7 @@ Assuming that `Bundler` is installed, you can continue with the following steps:
 
 - Github: [@alvarorf](https://github.com/alvarorf)
 - Twitter: [@aaruizf](https://twitter.com/aaruizf)
-- Linkedin: [Álvaro Ruiz](https://www.linkedin.com/in/alvaro-andr%C3%A9s-ruiz-22810915a/)
+- Linkedin: [Álvaro Ruiz](https://www.linkedin.com/in/alvaro-andr%C3%A9s-ruiz-florez/)
 
 ### 🤝 Contributing
 
